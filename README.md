@@ -5,7 +5,7 @@
   
 ### Вход
 
-- Телефон
+- Телефон 
 - Пароль
 - [Забыли пароль?](https://github.com/usmonitcompany/sso/edit/main/README.md#востановить-пароль)
 - [Регистрация](https://github.com/usmonitcompany/sso/edit/main/README.md#регистрация)
