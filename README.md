@@ -1,7 +1,7 @@
 # Сайт
 
 - Для начала Вам нужно войти в свой аккаунт
-- [Вход/регистрация](https://github.com/usmonitcompany/sso/edit/main/README.md#регистрациявход)
+- [Вход/регистрация](https://github.com/usmonitcompany/sso/edit/main/README.md#вход)
   
 ### Вход
 
