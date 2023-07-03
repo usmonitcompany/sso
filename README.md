@@ -1,5 +1,5 @@
 - The background color is `#F0FFFF` for light mode and `#2F4F4F` for dark mode.
-- ![Логотип](file:///C:/Istochnik/Лого.png)
+- ![Логотип]([file:///C:/Istochnik/Лого.png](https://github.com/usmonitcompany/sso/blob/main/%D0%9B%D0%BE%D0%B3%D0%BE.png))
 # Сайт
 
 - Для начала Вам нужно войти в свой аккаунт
